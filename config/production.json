@@ -1,6 +1,6 @@
 {
     "port": 80,
     "jwtSecret": "first-projects",
-    "mongoUri": "mongodb+srv://Abdukholiq:<password>@cluster0.1ulnc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",    
+    "mongoUri": "mongodb+srv://A:929700717@cluster0.fqmjq.mongodb.net/app?retryWrites=true&w=majority",    
     "baseUrl": "http://45.144.65.64"
 }
